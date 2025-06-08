@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cn_weather_citylist.json</file>
+    </qresource>
+</RCC>

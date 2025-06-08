@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/wind.png</file>
+        <file>images/kongqi.png</file>
+        <file>images/PM2.5.png</file>
+        <file>images/shidu.png</file>
+        <file>images/qingtian.png</file>
+        <file>images/search.png</file>
+        <file>images/close.png</file>
+    </qresource>
+    <qresource prefix="/weatherType">
+        <file>weatherType/baoxue.png</file>
+        <file>weatherType/dawu.png</file>
+        <file>weatherType/daxuezhuanbaoxue.png</file>
+        <file>weatherType/dayu.png</file>
+        <file>weatherType/duoyun.png</file>
+        <file>weatherType/duoyunzhuanqing.png</file>
+        <file>weatherType/leizhenyu.png</file>
+        <file>weatherType/qingtian.png</file>
+        <file>weatherType/shachenbao.png</file>
+        <file>weatherType/xiaoxue.png</file>
+        <file>weatherType/xiaoyu.png</file>
+        <file>weatherType/xiaoyuzhuandayu.png</file>
+        <file>weatherType/xiaoyuzhuanqing.png</file>
+        <file>weatherType/yingtian.png</file>
+        <file>weatherType/yujiaxue.png</file>
+        <file>weatherType/zhenyu.png</file>
+        <file>weatherType/yin.png</file>
+        <file>weatherType/duoyunzhuanxiaoyu.png</file>
+        <file>weatherType/yinzhuanqing.png</file>
+        <file>weatherType/daxue.png</file>
+        <file>weatherType/qingzhuanduoyun.png</file>
+        <file>weatherType/zhongyu.png</file>
+    </qresource>
+</RCC>
